@@ -8,6 +8,8 @@ This repository implements two baseline methods: PointNet++ and DGCNN on four pr
 
 You can reproduce the performances described in the origin paper by simply running a command down below.
 
+[[CVPR 2021 Paper]](https://arxiv.org/abs/2103.16397)
+
 ![GroundTruth](image/ground_truth_readme.png)
 
 ## Requirements
