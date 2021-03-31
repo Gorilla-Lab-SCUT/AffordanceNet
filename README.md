@@ -8,7 +8,7 @@ This repository implements two baseline methods: PointNet++ and DGCNN on four pr
 
 You can reproduce the performances described in the origin paper by simply running a command down below.
 
-[[CVPR 2021 Paper]](https://arxiv.org/abs/2103.16397)
+[[CVPR 2021 Paper]](https://arxiv.org/abs/2103.16397) [[Dataset Download Link]](https://drive.google.com/drive/folders/1s5W0Nfz9NEN8gP14tge8GuouUDXs2Ssq?usp=sharing) [[Dataset Web Page]](https://andlollipopde.github.io/3D-AffordanceNet/#/)
 
 ![GroundTruth](image/ground_truth_readme.png)
 
