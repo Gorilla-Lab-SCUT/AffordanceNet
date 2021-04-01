@@ -1,3 +1,4 @@
+# Copyright (c) Gorilla-Lab. All rights reserved.
 from torch import mul
 import torch
 import torch.nn as nn

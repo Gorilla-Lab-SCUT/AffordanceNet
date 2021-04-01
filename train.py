@@ -1,3 +1,4 @@
+# Copyright (c) Gorilla-Lab. All rights reserved.
 import os
 from os.path import join as opj
 import torch
