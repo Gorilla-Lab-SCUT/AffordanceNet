@@ -80,7 +80,6 @@ class Trainer(object):
 
             count += batch_size * num_point
             train_loss += loss.item()
-            break
         self.scheduler.step()
         if self.bn_momentum != None:
             self.model.apply(lambda x: self.bn_momentum(x, self.epoch))
