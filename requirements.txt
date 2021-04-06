@@ -15,6 +15,5 @@ PyYAML==5.3.1
 scikit_learn==0.23.2
 tabulate==0.8.7
 tensorboardX==2.1
-torch_optimizer==0.0.1a17
 yapf==0.30.0
 gorilla-core
