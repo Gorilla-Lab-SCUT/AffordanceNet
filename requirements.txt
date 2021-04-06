@@ -10,7 +10,6 @@ trimesh==3.8.19
 transforms3d==0.3.1
 numpy==1.19.4
 addict==2.4.0
-gorilla2d==0.2.0.3
 pynvml==8.0.4
 PyYAML==5.3.1
 scikit_learn==0.23.2
