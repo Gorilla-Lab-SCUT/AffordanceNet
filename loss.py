@@ -32,7 +32,7 @@ class EstimationLoss(nn.Module):
             2-torch.abs(pred)-torch.abs(target), 1)
         dice_negative = (intersection_negative+1e-6) / \
             (cardinality_negative+1e-6)
-        temp3 = torch.mean(1.0-dice_positive-dice_negative, 0)
+        temp3 = torch.mean(1.5-dice_positive-dice_negative, 0)
 
         DICELoss = torch.sum(temp3)
 
@@ -129,7 +129,7 @@ class VATLoss(nn.Module):
             2-torch.abs(pred)-torch.abs(target), 1)
         dice_negative = (intersection_negative+1e-6) / \
             (cardinality_negative+1e-6)
-        temp3 = torch.mean(1.0-dice_positive-dice_negative, 0)
+        temp3 = torch.mean(1.5-dice_positive-dice_negative, 0)
 
         DICELoss = torch.sum(temp3)
 
