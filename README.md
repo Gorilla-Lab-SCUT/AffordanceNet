@@ -19,7 +19,7 @@ All the codes are tested in the following environment:
 * Linux (tested on Ubuntu 16.04)
 * Python 3.7+
 * PyTorch 1.0.1
-* Gorilla-Core 0.2.4.11
+* Gorilla-Core
 * CUDA 10.0 or higher
 
 You can install the required packages by running the following command:
