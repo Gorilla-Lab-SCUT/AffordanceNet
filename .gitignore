@@ -1,0 +1,5 @@
+log/
+.vscode/
+__pycache__/
+**.o
+**.so
