@@ -67,3 +67,13 @@ python test.py config/dgcnn/estimation_cfg.py --work_dir PATH_TO_LOG_DIR --gpu 0
     - [x] Partial-View Affordance Estimation
     - [x] Rotation-Invariant Affordance Estimation
     - [x] Semi-Supervised Affordance Estimation
+
+## Cite Us
+```
+@inproceedings{deng20213d,
+  title={3D AffordanceNet: A Benchmark for Visual Object Affordance Understanding},
+  author={Deng, Shengheng and Xu, Xun and Wu, Chaozheng and Chen, Ke and Jia, Kui},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  year={2021}
+}
+```
