@@ -24,7 +24,7 @@ All the codes are tested in the following environment:
 
 You can install the required packages by running the following command:
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
 To install the cuda kernel, go to [models/pointnet2_ops](models/pointnet2_ops) and run the following command:
